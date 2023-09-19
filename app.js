@@ -6,3 +6,5 @@ const newItems = _.flattenDeep(items);
 console.log(newItems);
 
 console.log('test');
+
+console.log('test2');
